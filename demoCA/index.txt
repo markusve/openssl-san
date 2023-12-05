@@ -1,0 +1,6 @@
+V	280611094824Z		01	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=client.example.com
+V	280611095033Z		02	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=server.example.com
+V	280611124850Z		03	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=server.example.com
+V	280611124959Z		04	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=client.example.com
+V	280611131638Z		05	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=server.example.com
+V	280611132436Z		06	unknown	/C=AU/ST=Some-State/O=Internet Widgits Pty Ltd/CN=client.example.com
